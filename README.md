@@ -9,4 +9,5 @@ To run the app locally, clone the repository and install the required dependenci
 
 The app can be customized by modifying the Excel file with data for different countries and years. The app can also be extended to include additional features, such as a map visualization or a search function for finding specific countries.
 
-Contributions and suggestions are welcome!
+Here is link to Streamlit App: https://hillkip23-economic-freedom-index2023-econ-ebtve6.streamlit.app/
+
