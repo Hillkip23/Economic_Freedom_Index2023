@@ -1,0 +1,1 @@
+# Economic_Freedom_Index2023
